@@ -46,6 +46,12 @@ projects[entity][version] = 1.0
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = 3.1
 
+projects[pathauto][subdir] = "contrib"
+projects[pathauto][version] = 1.2
+
+projects[token][subdir] = "contrib"
+projects[token][version] = 1.5
+
 ; Develop
 projects[devel][subdir] = "develop"
 projects[devel][version] = "1.0"
