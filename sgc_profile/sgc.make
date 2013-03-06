@@ -52,6 +52,12 @@ projects[pathauto][version] = 1.2
 projects[token][subdir] = "contrib"
 projects[token][version] = 1.5
 
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = 2.x-dev
+
+projects[media][subdir] = "contrib"
+projects[media][version] = 1.3
+
 ; Develop
 projects[devel][subdir] = "develop"
 projects[devel][version] = "1.0"

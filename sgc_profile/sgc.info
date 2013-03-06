@@ -46,6 +46,7 @@ dependencies[] = panelizer
 dependencies[] = panels_ipe
 dependencies[] = entity
 dependencies[] = entityreference
+dependencies[] = media
 
 ; Features
 dependencies[] = sandbox_base
